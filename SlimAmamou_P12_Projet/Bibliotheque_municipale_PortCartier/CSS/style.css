@@ -1,0 +1,262 @@
+/*Allignement des titres*/
+h1
+{    
+    width: 70%;
+    text-align: center; 
+    padding-top: 12px;  
+}
+h2
+{
+    width: 70%;
+    text-align: center; 
+    padding-top: 15px;
+}
+h4
+{
+    margin-left: 8px;
+    color: rgb(29, 94, 233);
+}
+/*Design body*/
+.div-body
+{
+    margin-top: 10px;
+    width: 80%;
+    margin-left: 10%;    
+}
+.div-body h1
+{
+    color: rgb(29, 94, 233);
+}
+.design-general
+{
+    border: 1px solid rgb(29, 94, 233);
+    border-radius: 6px;
+}
+.div-article
+{
+    margin: 12px;
+    color: rgb(5, 42, 121);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.btn-diplay
+{
+    width: auto;
+    margin-left: 15px;
+    margin-bottom: 2px;
+}
+.article-div
+{
+    color: rgb(3, 30, 88);
+    margin-left: 5px;
+    font-size: 19px;
+}
+/*Entete*/
+.div-header
+{
+    height: auto;
+    background-color: rgb(29, 94, 233);
+    color: aliceblue;
+    border-radius: 6px;
+}
+.logo-div
+{
+    margin-top: 1px;
+    margin-left: auto;
+}
+.title-div
+{
+    margin-left: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+/*Pied de page*/
+.div-footer
+{
+    height: 30px;
+    background-color: rgb(29, 94, 233);
+    color: aliceblue;
+    border-radius: 6px;    
+    margin-top: 12px;    
+}
+.sign-page
+{
+    font-size: 10px;
+    margin-left: 80%;
+    padding-top: 7px;    
+}
+/*formulaire connexion*/
+.form-group
+{
+    margin: 7px;
+}
+.btn-primary
+{
+    margin-left: 45%;
+    margin-bottom: 5px;
+    margin-top: 8px;
+}
+/*formulaires membre et employes*/
+#membreDiv
+{
+    position: absolute;
+    width: 55%;
+    margin-left: 25%;
+    height: auto;
+    border: solid 10px rgb(29, 94, 233);
+    background-color:aliceblue;
+    border-radius: 10px;
+    margin-top: -5000px;
+}
+#employeDiv
+{
+    position: absolute;
+    width: 55%;
+    margin-left: 25%;
+    height: auto;
+    border: solid 10px rgb(29, 94, 233);
+    background-color:aliceblue;
+    border-radius: 10px;
+    margin-top: -5000px;
+}
+
+.btn_formdeploy
+{
+    margin-left: 32%;
+    margin-bottom: 10px;
+    width:auto;
+}
+.divPass
+{
+    font-size: 10px;
+}
+/*form reserve and rent*/
+.rent-rsv-div
+{
+    margin: 5%;
+    width: 90%;
+    height: auto;
+    border: solid 1px rgb(29, 94, 233);
+    background-color:aliceblue;
+    padding: 2px;
+}
+#form-title
+{
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(29, 94, 233);
+}
+
+/*Search bar*/
+.btn_search
+{
+    height: 32px;
+    width: 28px;
+    background-color: white;
+    border: 0;
+    padding-left: 1px;
+}
+
+.input-search
+{
+    height: 32px;
+    width: 180px;
+    border-radius: 5px;
+    border: solid 1px rgb(29, 94, 233);
+}
+
+.loupe
+{
+    margin-top: -31px;
+    margin-left: 180px;
+}
+.search-div
+{
+    border: solid 1px rgb(29, 94, 233);
+    width: 220px;
+    margin-top: 2px;
+    padding: 1px;
+    border-radius: 7px;
+}
+
+.search-td
+{
+    width: 50%;    
+}
+/*div display members*/
+#members-div hr
+{
+    color: aliceblue;
+    position: relative;
+    
+}
+#members-div
+{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+table tr th
+{
+    color: rgb(29, 94, 233);
+    padding-left: 5px;
+}
+
+table tr td
+{
+    padding-left: 3px;
+}
+.id-input
+{
+    width: 30px;
+    border: 0px;
+}
+
+/* Message Box */
+#message-box
+{
+    width: auto;
+    text-align: center;
+    margin: 5px;
+    font-size: 20px;
+}
+
+#transaction-box
+{
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+#message-box-reservation
+{
+    margin: 2px;
+    text-align: center;
+    font-size: 20px;
+    padding: 2px;
+}
+/*form-rent-reserve-title*/
+.form-rent-reserve-title
+{
+    text-align: center;
+    color: rgb(29, 94, 233);
+    font-size: 16px;
+}
+
+/*Member page*/
+
+.div-by-document
+{
+    border: solid 1px rgb(111, 34, 234);
+    margin: 2px;
+    background-color: rgb(200, 243, 238);
+}
+.p-resume
+{
+    margin-left: 2px;
+}
+
+.btn-warning
+{
+    margin-top: 20px;
+}
